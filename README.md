@@ -1,7 +1,7 @@
 ### Hi there 👋, My name is Ernesto
 #### I am an engineer interested in data science and renewable energy
 
-**Skills:** Python/ SQL / Mathematica / R
+**Skills:** Python / SQL / Mathematica / R
 
 **Languages:** Native Spanish / Advanced English / Basic Italian
 
